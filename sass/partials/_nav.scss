@@ -1,0 +1,20 @@
+nav{
+	opacity: 0;
+	width: 768px;
+	margin: auto;
+
+	ul{
+		display:block;
+		width:100%; height: auto;
+		padding: 10px 0;
+		li{
+			display: inline-block;
+			padding: 0px 5px;
+			a{
+				font-family : 'fontawesome';
+				color: $clouds_white;
+				text-decoration: none;
+			}
+		}
+	}
+}
